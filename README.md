@@ -10,4 +10,4 @@
 <div>
 
 ## *Dev Júnior; Matemático Empenhado; Apaixonado em aprender*
-## *1/4 IFPR - Técnico em Informática*
+## *2/4 IFPR - Técnico em Informática*
