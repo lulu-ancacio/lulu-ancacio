@@ -10,4 +10,4 @@
 <div>
 
 ### *Tentando encaixar um pouco de matemática em tudo, e criar coisas novas e criativas.*
-## *2/4 IFPR - Técnico em Informática*
+## *3/4 IFPR - Técnico em Informática*
